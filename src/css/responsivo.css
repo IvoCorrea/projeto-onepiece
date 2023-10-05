@@ -39,9 +39,7 @@
 }   
 
 @media (max-width: 425px) {
-    main .personagem .imagem {
-        
-    }
+   
 
     .conteudo .logo {
         width: 170px;
@@ -55,6 +53,7 @@
     .botoes {
         padding: 20px;
         top: -20%;
+        z-index: 2;
     }
 
     .botoes .botao img {
